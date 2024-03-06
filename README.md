@@ -17,7 +17,7 @@ This Flashlight App is designed for a seamless user experience with an emphasis 
 
 To install the Flashlight App:
 
-1. Download the APK from the [https://github.com/GhostVex/AndroidProject/raw/main/Flash%20Light.apk](#).
+1. Download the APK from the [https://github.com/GhostVex/AndroidProject/raw/main/FlashLightJava/Flash%20Light.apk](#).
 2. Enable installation from unknown sources in your device settings.
 3. Install the app and grant necessary permissions.
 
